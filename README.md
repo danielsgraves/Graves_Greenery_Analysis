@@ -4,7 +4,7 @@
 **Status:** Draft template (replace placeholders and add your content).  
 **Last updated:** 2025-10-07
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/notebooks/graves_greenery_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielsgraves/graves_greenery_analysis/blob/main/notebooks/graves_greenery_analysis.ipynb)
 
 ## 1) Project Overview (Executive-Friendly)
 Briefly describe the business context and goals (2–4 sentences).
