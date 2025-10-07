@@ -1,7 +1,7 @@
 
 # Graves Greenery — SQL Analytics Project 🌿
 
-**Status:** Draft template (replace placeholders and add your content).  
+**Status:** Draft template
 **Last updated:** 2025-10-07
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielsgraves/graves_greenery_analysis/blob/main/notebooks/graves_greenery.ipynb)
@@ -46,8 +46,4 @@ Include polished tables/visuals and insights.
 DDL, SQL, notebooks, performance notes.
 
 ---
-### Quick Start for GitHub Beginners
-1. Create a new **public** repo on GitHub.  
-2. Upload this folder (drag & drop contents).  
-3. Replace placeholders (`your-username/your-repo-name`) with your actual GitHub info.  
-4. Open the notebook in Colab using the badge above.  
+
