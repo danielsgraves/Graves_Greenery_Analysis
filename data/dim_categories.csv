@@ -1,0 +1,53 @@
+category_id,category_level1,category_level2,genus
+1,Indoor,Succulents,Monstera
+2,Indoor,Hoyas,Epipremnum
+3,Indoor,Flowering Indoor,Scindapsus
+4,Indoor,Aroids,Zamioculcas
+5,Indoor,Aroids,Sansevieria
+6,Indoor,Tropicals,Ficus
+7,Indoor,Succulents,Philodendron
+8,Indoor,Aroids,Anthurium
+9,Indoor,Tropicals,Spathiphyllum
+10,Indoor,Ficus,Calathea
+11,Indoor,Aroids,Maranta
+12,Indoor,Hoyas,Hoya
+13,Indoor,Aroids,Pilea
+14,Indoor,Ficus,Dracaena
+15,Indoor,Aroids,Chlorophytum
+16,Indoor,Tropicals,Aloe
+17,Indoor,Hoyas,Ceropegia
+18,Indoor,Aroids,Senecio
+19,Indoor,Tropicals,Peperomia
+20,Indoor,Aroids,Dieffenbachia
+21,Indoor,Ficus,Aglaonema
+22,Indoor,Flowering Indoor,Strelitzia
+23,Indoor,Hoyas,Syngonium
+24,Indoor,Aroids,Alocasia
+25,Indoor,Tropicals,Cactus
+26,Indoor,Ficus,Succulent
+27,Indoor,Succulents,Crassula
+28,Indoor,Hoyas,Hedera
+29,Outdoor,Grasses,Hydrangea
+30,Outdoor,Trees,Lavender
+31,Outdoor,Grasses,Acer
+32,Outdoor,Perennials,Rosa
+33,Outdoor,Grasses,Hosta
+34,Outdoor,Flowering Outdoor,Buxus
+35,Outdoor,Shrubs,Thuja
+36,Outdoor,Trees,Taxus
+37,Outdoor,Grasses,Salvia
+38,Outdoor,Grasses,Echinacea
+39,Outdoor,Flowering Outdoor,Heuchera
+40,Outdoor,Shrubs,Pennisetum
+41,Outdoor,Perennials,Rudbeckia
+42,Outdoor,Trees,Pelargonium
+43,Outdoor,Grasses,Nepeta
+44,Outdoor,Flowering Outdoor,Hemerocallis
+45,Outdoor,Trees,Clematis
+46,Outdoor,Grasses,Cercis
+47,Outdoor,Trees,Viburnum
+48,Outdoor,Grasses,Camellia
+49,Outdoor,Shrubs,Skimmia
+50,Outdoor,Annuals,Pieris
+51,Outdoor,Flowering Outdoor,Helleborus
+52,Outdoor,Annuals,Cedrus
