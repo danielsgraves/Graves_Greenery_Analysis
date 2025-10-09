@@ -1,0 +1,721 @@
+plant_id,sku,plant_name,category_id,unit_cost,list_price
+1,philodendron_bipinnatifidum_1gal,Philodendron bipinnatifidum 1gal,4,36.93,70.27
+2,philodendron_bipinnatifidum_8in,Philodendron bipinnatifidum 8in,4,33.19,68.04
+3,philodendron_bipinnatifidum_4in,Philodendron bipinnatifidum 4in,4,19.99,33.79
+4,philodendron_bipinnatifidum_2in,Philodendron bipinnatifidum 2in,4,19.18,33.07
+5,spathiphyllum_wallisii_6in,Spathiphyllum wallisii 6in,4,22.57,45.03
+6,spathiphyllum_wallisii_10in,Spathiphyllum wallisii 10in,4,51.33,91.12
+7,spathiphyllum_wallisii_1gal,Spathiphyllum wallisii 1gal,4,22.35,42.83
+8,epipremnum_aureum_2gal,Epipremnum aureum 2gal,4,54.09,100.06
+9,epipremnum_aureum_8in,Epipremnum aureum 8in,4,37.58,77.26
+10,epipremnum_aureum_tricolor_10in,Epipremnum aureum 'Tricolor' 10in,4,22.21,38.27
+11,epipremnum_aureum_variegata_4in,Epipremnum aureum 'Variegata' 4in,4,28.86,53.29
+12,epipremnum_aureum_tricolor_6in,Epipremnum aureum 'Tricolor' 6in,4,18.61,35.65
+13,stromanthe_sanguinea_variegata_2gal,Stromanthe sanguinea 'Variegata' 2gal,4,21.16,34.17
+14,stromanthe_sanguinea_variegata_8in,Stromanthe sanguinea 'Variegata' 8in,4,31.57,68.27
+15,stromanthe_sanguinea_6in,Stromanthe sanguinea 6in,4,26.25,52.98
+16,hoya_kerrii_2gal,Hoya kerrii 2gal,4,14.93,29.87
+17,hoya_kerrii_compacta_10in,Hoya kerrii 'Compacta' 10in,4,13.93,31.15
+18,hoya_kerrii_4in,Hoya kerrii 4in,4,28.08,46.79
+19,hoya_kerrii_2in,Hoya kerrii 2in,4,9.03,19.53
+20,ficus_elastica_1gal,Ficus elastica 1gal,4,59.06,113.78
+21,ficus_elastica_2in,Ficus elastica 2in,4,4.33,8.42
+22,ficus_elastica_6in,Ficus elastica 6in,4,25.31,43.75
+23,philodendron_hederaceum_10in,Philodendron hederaceum 10in,4,35.21,72.61
+24,philodendron_hederaceum_6in,Philodendron hederaceum 6in,4,34.89,64.99
+25,philodendron_hederaceum_2in,Philodendron hederaceum 2in,4,7.96,15.01
+26,philodendron_hederaceum_8in,Philodendron hederaceum 8in,4,21.68,39.01
+27,chlorophytum_comosum_4in,Chlorophytum comosum 4in,4,21.69,46.2
+28,chlorophytum_comosum_ruby_8in,Chlorophytum comosum 'Ruby' 8in,4,45.39,73.76
+29,chlorophytum_comosum_10in,Chlorophytum comosum 10in,4,31.62,53.81
+30,chlorophytum_comosum_6in,Chlorophytum comosum 6in,4,9.92,19.55
+31,dracaena_fragrans_8in,Dracaena fragrans 8in,4,25.22,53.39
+32,dracaena_fragrans_4in,Dracaena fragrans 4in,4,28.32,51.39
+33,aglaonema_commutatum_variegata_2in,Aglaonema commutatum 'Variegata' 2in,4,11.24,22.81
+34,aglaonema_commutatum_tricolor_8in,Aglaonema commutatum 'Tricolor' 8in,4,31.52,59.08
+35,aglaonema_commutatum_tricolor_10in,Aglaonema commutatum 'Tricolor' 10in,4,40.92,80.11
+36,aglaonema_commutatum_2gal,Aglaonema commutatum 2gal,4,21.65,40.13
+37,maranta_leuconeura_compacta_1gal,Maranta leuconeura 'Compacta' 1gal,4,45.23,79.61
+38,maranta_leuconeura_variegata_10in,Maranta leuconeura 'Variegata' 10in,4,23.06,39.89
+39,maranta_leuconeura_6in,Maranta leuconeura 6in,4,21.14,41.55
+40,monstera_deliciosa_8in,Monstera deliciosa 8in,4,26.69,53.81
+41,monstera_deliciosa_2in,Monstera deliciosa 2in,4,9.28,19.46
+42,monstera_deliciosa_aurea_2gal,Monstera deliciosa 'Aurea' 2gal,4,13.14,26.98
+43,calathea_lancifolia_10in,Calathea lancifolia 10in,4,14.65,30.5
+44,calathea_lancifolia_6in,Calathea lancifolia 6in,4,43.55,75.59
+45,calathea_lancifolia_variegata_2gal,Calathea lancifolia 'Variegata' 2gal,4,54.86,96.19
+46,syngonium_podophyllum_1gal,Syngonium podophyllum 1gal,4,15.37,25.73
+47,syngonium_podophyllum_2gal,Syngonium podophyllum 2gal,4,20.78,36.87
+48,syngonium_podophyllum_2in,Syngonium podophyllum 2in,4,10.65,22.67
+49,thaumatophyllum_spruceanum_2in,Thaumatophyllum spruceanum 2in,4,12.91,21.36
+50,thaumatophyllum_spruceanum_4in,Thaumatophyllum spruceanum 4in,4,7.86,15.21
+51,thaumatophyllum_spruceanum_nana_8in,Thaumatophyllum spruceanum 'Nana' 8in,4,26.58,48.48
+52,thaumatophyllum_spruceanum_variegata_10in,Thaumatophyllum spruceanum 'Variegata' 10in,4,31.15,55.13
+53,ficus_lyrata_4in,Ficus lyrata 4in,4,21.14,45.22
+54,ficus_lyrata_1gal,Ficus lyrata 1gal,4,22.75,46.95
+55,ficus_lyrata_variegata_2gal,Ficus lyrata 'Variegata' 2gal,4,67.78,113.23
+56,pilea_peperomioides_8in,Pilea peperomioides 8in,4,13.41,21.63
+57,pilea_peperomioides_10in,Pilea peperomioides 10in,4,46.84,86.56
+58,zamioculcas_zamiifolia_4in,Zamioculcas zamiifolia 4in,4,19.23,43.44
+59,zamioculcas_zamiifolia_6in,Zamioculcas zamiifolia 6in,4,6.46,13.83
+60,zamioculcas_zamiifolia_2gal,Zamioculcas zamiifolia 2gal,4,52.54,97.6
+61,zamioculcas_zamiifolia_2in,Zamioculcas zamiifolia 2in,4,13.72,27.76
+62,zamioculcas_zamiifolia_10in,Zamioculcas zamiifolia 10in,4,43.29,75.01
+63,alocasia_amazonica_nana_4in,Alocasia amazonica 'Nana' 4in,4,22.56,46.39
+64,alocasia_amazonica_2gal,Alocasia amazonica 2gal,4,37.91,65.11
+65,paphiopedilum_delenatii_compacta_6in,Paphiopedilum delenatii 'Compacta' 6in,12,30.35,52.61
+66,paphiopedilum_delenatii_1gal,Paphiopedilum delenatii 1gal,12,58.1,99.69
+67,paphiopedilum_delenatii_2gal,Paphiopedilum delenatii 2gal,12,71.9,113.74
+68,paphiopedilum_delenatii_8in,Paphiopedilum delenatii 8in,12,50.23,84.31
+69,cattleya_labiata_6in,Cattleya labiata 6in,12,31.74,58.02
+70,cattleya_labiata_4in,Cattleya labiata 4in,12,18.23,31.23
+71,cattleya_labiata_ruby_2gal,Cattleya labiata 'Ruby' 2gal,12,55.52,111.9
+72,cattleya_labiata_tricolor_2in,Cattleya labiata 'Tricolor' 2in,12,21.77,42.21
+73,cattleya_labiata_1gal,Cattleya labiata 1gal,12,29.86,58.39
+74,phalaenopsis_amabilis_nana_8in,Phalaenopsis amabilis 'Nana' 8in,12,20.9,35.2
+75,phalaenopsis_amabilis_tricolor_10in,Phalaenopsis amabilis 'Tricolor' 10in,12,47.99,84.69
+76,brassia_verrucosa_1gal,Brassia verrucosa 1gal,12,51.19,96.0
+77,brassia_verrucosa_2in,Brassia verrucosa 2in,12,14.11,23.94
+78,brassia_verrucosa_aurea_2gal,Brassia verrucosa 'Aurea' 2gal,12,63.66,126.23
+79,brassia_verrucosa_aurea_6in,Brassia verrucosa 'Aurea' 6in,12,37.81,62.71
+80,miltonia_spectabilis_4in,Miltonia spectabilis 4in,12,20.61,33.08
+81,miltonia_spectabilis_6in,Miltonia spectabilis 6in,12,39.34,63.06
+82,miltonia_spectabilis_compacta_2gal,Miltonia spectabilis 'Compacta' 2gal,12,56.57,102.77
+83,cymbidium_ensifolium_1gal,Cymbidium ensifolium 1gal,12,34.37,54.05
+84,cymbidium_ensifolium_tricolor_10in,Cymbidium ensifolium 'Tricolor' 10in,12,29.58,55.69
+85,cymbidium_ensifolium_variegata_4in,Cymbidium ensifolium 'Variegata' 4in,12,18.59,31.49
+86,cymbidium_ensifolium_tricolor_2in,Cymbidium ensifolium 'Tricolor' 2in,12,21.61,36.47
+87,oncidium_sphacelatum_2in,Oncidium sphacelatum 2in,12,17.48,30.41
+88,oncidium_sphacelatum_6in,Oncidium sphacelatum 6in,12,14.55,25.26
+89,dendrobium_nobile_compacta_10in,Dendrobium nobile 'Compacta' 10in,12,17.41,31.94
+90,dendrobium_nobile_8in,Dendrobium nobile 8in,12,43.85,79.36
+91,dendrobium_nobile_nana_2gal,Dendrobium nobile 'Nana' 2gal,12,51.73,97.11
+92,paphiopedilum_delenatii_10in,Paphiopedilum delenatii 10in,12,18.31,34.66
+93,paphiopedilum_delenatii_6in,Paphiopedilum delenatii 6in,12,46.77,83.01
+94,paphiopedilum_delenatii_8in,Paphiopedilum delenatii 8in,12,28.35,55.11
+95,cattleya_labiata_1gal,Cattleya labiata 1gal,12,46.42,82.54
+96,cattleya_labiata_variegata_2in,Cattleya labiata 'Variegata' 2in,12,23.46,36.54
+97,cattleya_labiata_variegata_4in,Cattleya labiata 'Variegata' 4in,12,30.26,59.97
+98,phalaenopsis_amabilis_8in,Phalaenopsis amabilis 8in,12,35.67,65.24
+99,phalaenopsis_amabilis_2in,Phalaenopsis amabilis 2in,12,19.21,34.2
+100,phalaenopsis_amabilis_variegata_10in,Phalaenopsis amabilis 'Variegata' 10in,12,30.36,57.52
+101,phalaenopsis_amabilis_tricolor_1gal,Phalaenopsis amabilis 'Tricolor' 1gal,12,64.32,115.46
+102,brassia_verrucosa_8in,Brassia verrucosa 8in,12,35.65,56.59
+103,brassia_verrucosa_nana_4in,Brassia verrucosa 'Nana' 4in,12,22.52,38.49
+104,brassia_verrucosa_tricolor_2gal,Brassia verrucosa 'Tricolor' 2gal,12,74.21,143.4
+105,brassia_verrucosa_compacta_6in,Brassia verrucosa 'Compacta' 6in,12,29.68,49.58
+106,brassia_verrucosa_10in,Brassia verrucosa 10in,12,19.54,36.53
+107,miltonia_spectabilis_2gal,Miltonia spectabilis 2gal,12,23.22,36.25
+108,miltonia_spectabilis_6in,Miltonia spectabilis 6in,12,17.66,30.04
+109,miltonia_spectabilis_compacta_2in,Miltonia spectabilis 'Compacta' 2in,12,14.47,27.07
+110,miltonia_spectabilis_nana_8in,Miltonia spectabilis 'Nana' 8in,12,12.44,25.51
+111,miltonia_spectabilis_compacta_10in,Miltonia spectabilis 'Compacta' 10in,12,14.25,26.18
+112,cymbidium_ensifolium_6in,Cymbidium ensifolium 6in,12,21.14,37.38
+113,cymbidium_ensifolium_aurea_8in,Cymbidium ensifolium 'Aurea' 8in,12,39.38,65.09
+114,cymbidium_ensifolium_2gal,Cymbidium ensifolium 2gal,12,33.11,64.8
+115,cymbidium_ensifolium_4in,Cymbidium ensifolium 4in,12,23.44,39.27
+116,oncidium_sphacelatum_8in,Oncidium sphacelatum 8in,12,50.44,92.14
+117,oncidium_sphacelatum_1gal,Oncidium sphacelatum 1gal,12,38.05,73.81
+118,oncidium_sphacelatum_4in,Oncidium sphacelatum 4in,12,30.99,54.31
+119,dendrobium_nobile_4in,Dendrobium nobile 4in,12,19.47,37.58
+120,dendrobium_nobile_compacta_10in,Dendrobium nobile 'Compacta' 10in,12,33.62,54.2
+121,dendrobium_nobile_compacta_1gal,Dendrobium nobile 'Compacta' 1gal,12,34.41,68.03
+122,dendrobium_nobile_tricolor_2gal,Dendrobium nobile 'Tricolor' 2gal,12,40.81,77.27
+123,paphiopedilum_delenatii_6in,Paphiopedilum delenatii 6in,12,13.37,23.01
+124,paphiopedilum_delenatii_tricolor_4in,Paphiopedilum delenatii 'Tricolor' 4in,12,34.78,64.3
+125,cattleya_labiata_8in,Cattleya labiata 8in,12,28.64,49.6
+126,cattleya_labiata_2in,Cattleya labiata 2in,12,22.73,44.31
+127,cattleya_labiata_10in,Cattleya labiata 10in,12,48.71,90.03
+128,cattleya_labiata_2gal,Cattleya labiata 2gal,12,68.53,125.86
+129,davallia_tyermannii_aurea_6in,Davallia tyermannii 'Aurea' 6in,3,6.17,12.35
+130,davallia_tyermannii_1gal,Davallia tyermannii 1gal,3,15.18,29.93
+131,davallia_tyermannii_compacta_2gal,Davallia tyermannii 'Compacta' 2gal,3,25.9,43.27
+132,davallia_tyermannii_compacta_8in,Davallia tyermannii 'Compacta' 8in,3,9.59,16.13
+133,davallia_tyermannii_2in,Davallia tyermannii 2in,3,6.85,13.23
+134,cyrtomium_falcatum_aurea_2gal,Cyrtomium falcatum 'Aurea' 2gal,3,17.14,31.55
+135,cyrtomium_falcatum_ruby_4in,Cyrtomium falcatum 'Ruby' 4in,3,8.34,16.71
+136,cyrtomium_falcatum_2in,Cyrtomium falcatum 2in,3,5.73,10.97
+137,cyrtomium_falcatum_8in,Cyrtomium falcatum 8in,3,13.11,23.18
+138,cyrtomium_falcatum_compacta_1gal,Cyrtomium falcatum 'Compacta' 1gal,3,12.83,25.75
+139,blechnum_gibbum_1gal,Blechnum gibbum 1gal,3,17.21,29.61
+140,blechnum_gibbum_2in,Blechnum gibbum 2in,3,6.26,10.83
+141,blechnum_gibbum_compacta_8in,Blechnum gibbum 'Compacta' 8in,3,11.52,21.99
+142,blechnum_gibbum_4in,Blechnum gibbum 4in,3,5.68,10.95
+143,nephrolepis_exaltata_4in,Nephrolepis exaltata 4in,3,7.77,13.81
+144,nephrolepis_exaltata_2gal,Nephrolepis exaltata 2gal,3,19.62,32.55
+145,nephrolepis_exaltata_10in,Nephrolepis exaltata 10in,3,16.32,28.91
+146,adiantum_raddianum_6in,Adiantum raddianum 6in,3,10.07,18.3
+147,adiantum_raddianum_4in,Adiantum raddianum 4in,3,7.74,13.44
+148,dryopteris_erythrosora_variegata_1gal,Dryopteris erythrosora 'Variegata' 1gal,3,11.16,20.66
+149,dryopteris_erythrosora_10in,Dryopteris erythrosora 10in,3,14.7,25.29
+150,dryopteris_erythrosora_2gal,Dryopteris erythrosora 2gal,3,18.48,36.79
+151,athyrium_niponicum_compacta_2gal,Athyrium niponicum 'Compacta' 2gal,3,23.76,44.79
+152,athyrium_niponicum_6in,Athyrium niponicum 6in,3,9.78,17.24
+153,athyrium_niponicum_compacta_2in,Athyrium niponicum 'Compacta' 2in,3,7.26,14.12
+154,athyrium_niponicum_variegata_8in,Athyrium niponicum 'Variegata' 8in,3,6.92,13.94
+155,microsorum_musifolium_variegata_6in,Microsorum musifolium 'Variegata' 6in,3,11.3,20.08
+156,microsorum_musifolium_8in,Microsorum musifolium 8in,3,9.82,16.85
+157,microsorum_musifolium_aurea_10in,Microsorum musifolium 'Aurea' 10in,3,16.22,27.38
+158,pteris_cretica_variegata_2gal,Pteris cretica 'Variegata' 2gal,3,19.62,33.45
+159,pteris_cretica_6in,Pteris cretica 6in,3,9.84,18.94
+160,pteris_cretica_2in,Pteris cretica 2in,3,4.35,7.36
+161,polystichum_setiferum_2gal,Polystichum setiferum 2gal,3,11.15,21.36
+162,polystichum_setiferum_8in,Polystichum setiferum 8in,3,10.81,18.51
+163,asplenium_nidus_4in,Asplenium nidus 4in,3,8.78,16.92
+164,asplenium_nidus_2in,Asplenium nidus 2in,3,5.03,9.68
+165,asplenium_nidus_6in,Asplenium nidus 6in,3,7.72,13.38
+166,asplenium_nidus_aurea_1gal,Asplenium nidus 'Aurea' 1gal,3,15.9,30.59
+167,asplenium_nidus_2gal,Asplenium nidus 2gal,3,20.0,34.23
+168,platycerium_bifurcatum_compacta_4in,Platycerium bifurcatum 'Compacta' 4in,3,9.73,18.16
+169,platycerium_bifurcatum_ruby_2in,Platycerium bifurcatum 'Ruby' 2in,3,4.95,8.72
+170,platycerium_bifurcatum_2gal,Platycerium bifurcatum 2gal,3,23.53,43.61
+171,davallia_tyermannii_tricolor_8in,Davallia tyermannii 'Tricolor' 8in,3,9.02,16.02
+172,davallia_tyermannii_2in,Davallia tyermannii 2in,3,5.26,9.05
+173,cyrtomium_falcatum_2in,Cyrtomium falcatum 2in,3,4.35,7.86
+174,cyrtomium_falcatum_2gal,Cyrtomium falcatum 2gal,3,21.56,36.41
+175,blechnum_gibbum_2in,Blechnum gibbum 2in,3,3.28,6.13
+176,blechnum_gibbum_2gal,Blechnum gibbum 2gal,3,11.8,20.03
+177,nephrolepis_exaltata_2gal,Nephrolepis exaltata 2gal,3,17.41,32.15
+178,nephrolepis_exaltata_2in,Nephrolepis exaltata 2in,3,4.98,9.13
+179,nephrolepis_exaltata_tricolor_4in,Nephrolepis exaltata 'Tricolor' 4in,3,9.66,18.53
+180,nephrolepis_exaltata_tricolor_1gal,Nephrolepis exaltata 'Tricolor' 1gal,3,14.39,27.03
+181,adiantum_raddianum_10in,Adiantum raddianum 10in,3,11.98,21.94
+182,adiantum_raddianum_1gal,Adiantum raddianum 1gal,3,10.0,18.72
+183,adiantum_raddianum_nana_2gal,Adiantum raddianum 'Nana' 2gal,3,19.73,38.46
+184,dryopteris_erythrosora_8in,Dryopteris erythrosora 8in,3,15.6,27.85
+185,dryopteris_erythrosora_10in,Dryopteris erythrosora 10in,3,14.04,26.6
+186,dryopteris_erythrosora_2in,Dryopteris erythrosora 2in,3,8.12,14.12
+187,dryopteris_erythrosora_1gal,Dryopteris erythrosora 1gal,3,15.35,26.37
+188,dryopteris_erythrosora_6in,Dryopteris erythrosora 6in,3,6.22,10.68
+189,athyrium_niponicum_tricolor_2gal,Athyrium niponicum 'Tricolor' 2gal,3,10.87,21.38
+190,athyrium_niponicum_2in,Athyrium niponicum 2in,3,6.89,13.56
+191,athyrium_niponicum_ruby_4in,Athyrium niponicum 'Ruby' 4in,3,5.74,11.21
+192,microsorum_musifolium_8in,Microsorum musifolium 8in,3,15.72,26.46
+193,tillandsia_bulbosa_tricolor_6in,Tillandsia bulbosa 'Tricolor' 6in,11,3.03,6.73
+194,tillandsia_bulbosa_variegata_8in,Tillandsia bulbosa 'Variegata' 8in,11,4.67,9.22
+195,tillandsia_bulbosa_1gal,Tillandsia bulbosa 1gal,11,7.0,14.45
+196,tillandsia_bulbosa_2in,Tillandsia bulbosa 2in,11,3.96,7.43
+197,tillandsia_bergeri_variegata_1gal,Tillandsia bergeri 'Variegata' 1gal,11,5.8,10.82
+198,tillandsia_bergeri_aurea_2gal,Tillandsia bergeri 'Aurea' 2gal,11,9.09,17.11
+199,tillandsia_bergeri_aurea_8in,Tillandsia bergeri 'Aurea' 8in,11,5.36,10.22
+200,tillandsia_bergeri_variegata_6in,Tillandsia bergeri 'Variegata' 6in,11,10.96,20.37
+201,tillandsia_bergeri_compacta_2in,Tillandsia bergeri 'Compacta' 2in,11,1.8,3.19
+202,tillandsia_ionantha_compacta_2in,Tillandsia ionantha 'Compacta' 2in,11,5.72,11.54
+203,tillandsia_ionantha_8in,Tillandsia ionantha 8in,11,9.25,18.91
+204,tillandsia_ionantha_10in,Tillandsia ionantha 10in,11,6.41,10.54
+205,tillandsia_ionantha_nana_1gal,Tillandsia ionantha 'Nana' 1gal,11,11.34,19.51
+206,tillandsia_caput_medusae_2gal,Tillandsia caput-medusae 2gal,11,15.18,28.51
+207,tillandsia_caput_medusae_aurea_10in,Tillandsia caput-medusae 'Aurea' 10in,11,15.03,27.51
+208,tillandsia_brachycaulos_2in,Tillandsia brachycaulos 2in,11,6.06,12.8
+209,tillandsia_brachycaulos_6in,Tillandsia brachycaulos 6in,11,6.63,14.04
+210,tillandsia_brachycaulos_8in,Tillandsia brachycaulos 8in,11,13.74,22.57
+211,tillandsia_brachycaulos_2gal,Tillandsia brachycaulos 2gal,11,14.2,25.96
+212,tillandsia_xerographica_ruby_6in,Tillandsia xerographica 'Ruby' 6in,11,3.71,6.4
+213,tillandsia_xerographica_compacta_8in,Tillandsia xerographica 'Compacta' 8in,11,6.87,13.27
+214,tillandsia_xerographica_4in,Tillandsia xerographica 4in,11,8.76,16.68
+215,tillandsia_xerographica_variegata_1gal,Tillandsia xerographica 'Variegata' 1gal,11,13.28,22.62
+216,tillandsia_stricta_compacta_4in,Tillandsia stricta 'Compacta' 4in,11,10.33,18.35
+217,tillandsia_stricta_compacta_8in,Tillandsia stricta 'Compacta' 8in,11,11.23,21.66
+218,tillandsia_stricta_2in,Tillandsia stricta 2in,11,4.02,8.38
+219,tillandsia_tectorum_2gal,Tillandsia tectorum 2gal,11,10.03,18.42
+220,tillandsia_tectorum_8in,Tillandsia tectorum 8in,11,6.81,12.11
+221,tillandsia_tectorum_nana_2in,Tillandsia tectorum 'Nana' 2in,11,2.49,4.57
+222,tillandsia_bulbosa_4in,Tillandsia bulbosa 4in,11,7.97,15.11
+223,tillandsia_bulbosa_aurea_1gal,Tillandsia bulbosa 'Aurea' 1gal,11,16.04,34.22
+224,tillandsia_bulbosa_2in,Tillandsia bulbosa 2in,11,2.85,5.16
+225,tillandsia_bulbosa_aurea_10in,Tillandsia bulbosa 'Aurea' 10in,11,12.93,23.76
+226,tillandsia_bergeri_ruby_6in,Tillandsia bergeri 'Ruby' 6in,11,8.31,14.43
+227,tillandsia_bergeri_1gal,Tillandsia bergeri 1gal,11,19.81,36.09
+228,tillandsia_bergeri_8in,Tillandsia bergeri 8in,11,13.88,23.19
+229,tillandsia_bergeri_4in,Tillandsia bergeri 4in,11,7.77,14.87
+230,tillandsia_ionantha_compacta_1gal,Tillandsia ionantha 'Compacta' 1gal,11,11.48,26.05
+231,tillandsia_ionantha_2in,Tillandsia ionantha 2in,11,2.19,4.54
+232,tillandsia_ionantha_2gal,Tillandsia ionantha 2gal,11,9.09,19.0
+233,tillandsia_ionantha_10in,Tillandsia ionantha 10in,11,16.64,32.11
+234,tillandsia_ionantha_ruby_8in,Tillandsia ionantha 'Ruby' 8in,11,9.66,21.0
+235,tillandsia_caput_medusae_compacta_6in,Tillandsia caput-medusae 'Compacta' 6in,11,9.4,20.46
+236,tillandsia_caput_medusae_2in,Tillandsia caput-medusae 2in,11,1.99,3.32
+237,tillandsia_caput_medusae_compacta_10in,Tillandsia caput-medusae 'Compacta' 10in,11,7.41,13.67
+238,tillandsia_caput_medusae_1gal,Tillandsia caput-medusae 1gal,11,8.87,15.29
+239,tillandsia_caput_medusae_aurea_8in,Tillandsia caput-medusae 'Aurea' 8in,11,9.83,17.1
+240,tillandsia_brachycaulos_tricolor_1gal,Tillandsia brachycaulos 'Tricolor' 1gal,11,10.94,22.14
+241,tillandsia_brachycaulos_variegata_8in,Tillandsia brachycaulos 'Variegata' 8in,11,8.9,16.82
+242,tillandsia_brachycaulos_variegata_4in,Tillandsia brachycaulos 'Variegata' 4in,11,6.94,14.68
+243,tillandsia_brachycaulos_variegata_2in,Tillandsia brachycaulos 'Variegata' 2in,11,4.77,8.8
+244,tillandsia_brachycaulos_10in,Tillandsia brachycaulos 10in,11,4.64,9.2
+245,tillandsia_xerographica_compacta_6in,Tillandsia xerographica 'Compacta' 6in,11,11.52,24.03
+246,tillandsia_xerographica_10in,Tillandsia xerographica 10in,11,14.74,24.14
+247,tillandsia_xerographica_8in,Tillandsia xerographica 8in,11,10.72,22.61
+248,tillandsia_stricta_6in,Tillandsia stricta 6in,11,5.59,10.52
+249,tillandsia_stricta_nana_4in,Tillandsia stricta 'Nana' 4in,11,9.27,17.01
+250,tillandsia_stricta_1gal,Tillandsia stricta 1gal,11,13.29,23.3
+251,tillandsia_tectorum_compacta_6in,Tillandsia tectorum 'Compacta' 6in,11,4.8,8.22
+252,tillandsia_tectorum_aurea_4in,Tillandsia tectorum 'Aurea' 4in,11,3.67,6.32
+253,tillandsia_tectorum_compacta_1gal,Tillandsia tectorum 'Compacta' 1gal,11,8.12,17.58
+254,tillandsia_bulbosa_10in,Tillandsia bulbosa 10in,11,16.26,31.47
+255,tillandsia_bulbosa_1gal,Tillandsia bulbosa 1gal,11,17.1,28.94
+256,tillandsia_bulbosa_4in,Tillandsia bulbosa 4in,11,4.88,9.07
+257,euphorbia_tirucalli_compacta_6in,Euphorbia tirucalli 'Compacta' 6in,1,5.64,12.19
+258,euphorbia_tirucalli_4in,Euphorbia tirucalli 4in,1,2.6,4.69
+259,euphorbia_tirucalli_2gal,Euphorbia tirucalli 2gal,1,13.41,28.53
+260,euphorbia_lactea_aurea_2gal,Euphorbia lactea 'Aurea' 2gal,1,16.27,29.98
+261,euphorbia_lactea_aurea_2in,Euphorbia lactea 'Aurea' 2in,1,2.21,4.64
+262,euphorbia_lactea_variegata_4in,Euphorbia lactea 'Variegata' 4in,1,4.11,8.85
+263,haworthia_fasciata_aurea_8in,Haworthia fasciata 'Aurea' 8in,1,4.01,8.1
+264,haworthia_fasciata_1gal,Haworthia fasciata 1gal,1,12.04,24.28
+265,haworthia_fasciata_2gal,Haworthia fasciata 2gal,1,18.09,34.99
+266,haworthia_fasciata_6in,Haworthia fasciata 6in,1,3.8,7.85
+267,haworthia_fasciata_4in,Haworthia fasciata 4in,1,5.69,9.95
+268,portulacaria_afra_10in,Portulacaria afra 10in,1,5.11,10.53
+269,portulacaria_afra_4in,Portulacaria afra 4in,1,4.18,7.57
+270,portulacaria_afra_2in,Portulacaria afra 2in,1,3.55,6.36
+271,sedum_burrito_ruby_8in,Sedum burrito 'Ruby' 8in,1,7.4,16.71
+272,sedum_burrito_10in,Sedum burrito 10in,1,3.94,8.43
+273,sedum_burrito_6in,Sedum burrito 6in,1,7.56,17.21
+274,sedum_burrito_4in,Sedum burrito 4in,1,3.89,6.9
+275,sedum_burrito_2in,Sedum burrito 2in,1,2.38,4.91
+276,echeveria_pulvinata_2in,Echeveria pulvinata 2in,1,4.99,9.75
+277,echeveria_pulvinata_4in,Echeveria pulvinata 4in,1,4.87,10.38
+278,echeveria_pulvinata_variegata_8in,Echeveria pulvinata 'Variegata' 8in,1,6.43,14.29
+279,graptopetalum_paraguayense_8in,Graptopetalum paraguayense 8in,1,10.27,19.88
+280,graptopetalum_paraguayense_nana_1gal,Graptopetalum paraguayense 'Nana' 1gal,1,6.03,11.79
+281,graptopetalum_paraguayense_10in,Graptopetalum paraguayense 10in,1,10.5,20.75
+282,kalanchoe_tomentosa_1gal,Kalanchoe tomentosa 1gal,1,5.68,10.46
+283,kalanchoe_tomentosa_6in,Kalanchoe tomentosa 6in,1,8.6,15.6
+284,kalanchoe_tomentosa_2gal,Kalanchoe tomentosa 2gal,1,13.82,27.56
+285,kalanchoe_tomentosa_4in,Kalanchoe tomentosa 4in,1,7.41,15.47
+286,gasteria_bicolor_compacta_10in,Gasteria bicolor 'Compacta' 10in,1,4.7,8.65
+287,gasteria_bicolor_2gal,Gasteria bicolor 2gal,1,8.72,17.44
+288,gasteria_bicolor_compacta_1gal,Gasteria bicolor 'Compacta' 1gal,1,12.78,23.18
+289,kalanchoe_blossfeldiana_nana_4in,Kalanchoe blossfeldiana 'Nana' 4in,1,8.66,15.93
+290,kalanchoe_blossfeldiana_ruby_1gal,Kalanchoe blossfeldiana 'Ruby' 1gal,1,14.07,29.76
+291,kalanchoe_blossfeldiana_8in,Kalanchoe blossfeldiana 8in,1,4.57,9.31
+292,kalanchoe_blossfeldiana_6in,Kalanchoe blossfeldiana 6in,1,3.97,7.37
+293,aeonium_arboreum_8in,Aeonium arboreum 8in,1,9.74,18.49
+294,aeonium_arboreum_2in,Aeonium arboreum 2in,1,2.75,5.79
+295,aeonium_arboreum_1gal,Aeonium arboreum 1gal,1,7.88,16.22
+296,echeveria_elegans_6in,Echeveria elegans 6in,1,4.21,7.22
+297,echeveria_elegans_tricolor_2gal,Echeveria elegans 'Tricolor' 2gal,1,16.86,32.96
+298,aloe_vera_1gal,Aloe vera 1gal,1,8.17,15.19
+299,aloe_vera_6in,Aloe vera 6in,1,6.26,11.28
+300,sempervivum_tectorum_1gal,Sempervivum tectorum 1gal,1,14.16,24.81
+301,sempervivum_tectorum_10in,Sempervivum tectorum 10in,1,10.22,21.27
+302,sempervivum_tectorum_nana_4in,Sempervivum tectorum 'Nana' 4in,1,5.62,10.46
+303,sempervivum_tectorum_tricolor_8in,Sempervivum tectorum 'Tricolor' 8in,1,10.76,20.69
+304,crassula_perforata_4in,Crassula perforata 4in,1,3.54,7.84
+305,crassula_perforata_8in,Crassula perforata 8in,1,9.76,18.57
+306,crassula_perforata_1gal,Crassula perforata 1gal,1,10.92,22.05
+307,senecio_rowleyanus_tricolor_2gal,Senecio rowleyanus 'Tricolor' 2gal,1,17.84,37.2
+308,senecio_rowleyanus_ruby_6in,Senecio rowleyanus 'Ruby' 6in,1,6.72,14.41
+309,senecio_rowleyanus_4in,Senecio rowleyanus 4in,1,6.16,11.15
+310,senecio_rowleyanus_ruby_2in,Senecio rowleyanus 'Ruby' 2in,1,5.23,11.38
+311,senecio_rowleyanus_1gal,Senecio rowleyanus 1gal,1,6.41,11.79
+312,agave_attenuata_10in,Agave attenuata 10in,1,12.24,22.61
+313,agave_attenuata_2gal,Agave attenuata 2gal,1,10.38,18.75
+314,agave_attenuata_4in,Agave attenuata 4in,1,5.88,11.76
+315,agave_attenuata_aurea_6in,Agave attenuata 'Aurea' 6in,1,4.16,7.58
+316,crassula_ovata_1gal,Crassula ovata 1gal,1,8.19,15.16
+317,crassula_ovata_compacta_8in,Crassula ovata 'Compacta' 8in,1,5.08,9.06
+318,crassula_ovata_4in,Crassula ovata 4in,1,6.07,11.91
+319,senecio_radicans_2gal,Senecio radicans 2gal,1,11.26,21.24
+320,senecio_radicans_4in,Senecio radicans 4in,1,6.03,11.18
+321,origanum_vulgare_2in,Origanum vulgare 2in,5,3.09,5.78
+322,origanum_vulgare_10in,Origanum vulgare 10in,5,9.43,19.14
+323,origanum_vulgare_4in,Origanum vulgare 4in,5,3.46,6.28
+324,lavandula_angustifolia_4in,Lavandula angustifolia 4in,5,6.84,11.44
+325,lavandula_angustifolia_10in,Lavandula angustifolia 10in,5,10.23,18.71
+326,lavandula_angustifolia_aurea_2in,Lavandula angustifolia 'Aurea' 2in,5,4.67,9.12
+327,mentha_spicata_aurea_4in,Mentha spicata 'Aurea' 4in,5,5.59,9.59
+328,mentha_spicata_ruby_10in,Mentha spicata 'Ruby' 10in,5,11.12,21.44
+329,mentha_spicata_2in,Mentha spicata 2in,5,4.12,8.32
+330,coriandrum_sativum_1gal,Coriandrum sativum 1gal,5,11.46,19.4
+331,coriandrum_sativum_tricolor_8in,Coriandrum sativum 'Tricolor' 8in,5,7.63,14.58
+332,petroselinum_crispum_nana_2gal,Petroselinum crispum 'Nana' 2gal,5,4.81,9.21
+333,petroselinum_crispum_4in,Petroselinum crispum 4in,5,2.68,5.16
+334,petroselinum_crispum_10in,Petroselinum crispum 10in,5,6.78,12.84
+335,salvia_officinalis_6in,Salvia officinalis 6in,5,3.32,6.6
+336,salvia_officinalis_tricolor_8in,Salvia officinalis 'Tricolor' 8in,5,4.99,8.36
+337,salvia_officinalis_10in,Salvia officinalis 10in,5,5.81,11.89
+338,anethum_graveolens_2in,Anethum graveolens 2in,5,2.61,5.12
+339,anethum_graveolens_ruby_10in,Anethum graveolens 'Ruby' 10in,5,3.83,6.44
+340,anethum_graveolens_8in,Anethum graveolens 8in,5,4.87,8.79
+341,anethum_graveolens_6in,Anethum graveolens 6in,5,3.74,6.67
+342,anethum_graveolens_aurea_2gal,Anethum graveolens 'Aurea' 2gal,5,11.1,19.7
+343,thymus_vulgaris_tricolor_2gal,Thymus vulgaris 'Tricolor' 2gal,5,15.63,29.1
+344,thymus_vulgaris_nana_2in,Thymus vulgaris 'Nana' 2in,5,4.75,8.91
+345,thymus_vulgaris_8in,Thymus vulgaris 8in,5,9.73,19.05
+346,thymus_vulgaris_4in,Thymus vulgaris 4in,5,4.09,7.61
+347,thymus_vulgaris_ruby_10in,Thymus vulgaris 'Ruby' 10in,5,11.31,19.22
+348,rosmarinus_officinalis_tricolor_6in,Rosmarinus officinalis 'Tricolor' 6in,5,7.95,13.1
+349,rosmarinus_officinalis_10in,Rosmarinus officinalis 10in,5,7.9,15.67
+350,rosmarinus_officinalis_1gal,Rosmarinus officinalis 1gal,5,10.0,18.39
+351,rosmarinus_officinalis_8in,Rosmarinus officinalis 8in,5,9.69,16.79
+352,mentha_piperita_1gal,Mentha piperita 1gal,5,5.17,10.24
+353,mentha_piperita_2gal,Mentha piperita 2gal,5,16.95,30.85
+354,mentha_piperita_2in,Mentha piperita 2in,5,2.42,4.14
+355,allium_schoenoprasum_4in,Allium schoenoprasum 4in,5,3.84,7.26
+356,allium_schoenoprasum_2in,Allium schoenoprasum 2in,5,4.97,9.41
+357,allium_schoenoprasum_aurea_1gal,Allium schoenoprasum 'Aurea' 1gal,5,5.46,10.12
+358,ocimum_basilicum_aurea_6in,Ocimum basilicum 'Aurea' 6in,5,3.56,5.94
+359,ocimum_basilicum_compacta_2gal,Ocimum basilicum 'Compacta' 2gal,5,13.31,23.32
+360,ocimum_basilicum_2in,Ocimum basilicum 2in,5,4.96,8.28
+361,ocimum_basilicum_ruby_4in,Ocimum basilicum 'Ruby' 4in,5,7.4,14.68
+362,ocimum_basilicum_ruby_1gal,Ocimum basilicum 'Ruby' 1gal,5,11.14,19.61
+363,origanum_vulgare_2in,Origanum vulgare 2in,5,2.12,3.69
+364,origanum_vulgare_1gal,Origanum vulgare 1gal,5,7.45,14.87
+365,origanum_vulgare_2gal,Origanum vulgare 2gal,5,7.44,13.25
+366,lavandula_angustifolia_ruby_2gal,Lavandula angustifolia 'Ruby' 2gal,5,13.37,24.25
+367,lavandula_angustifolia_2in,Lavandula angustifolia 2in,5,4.48,8.39
+368,lavandula_angustifolia_tricolor_4in,Lavandula angustifolia 'Tricolor' 4in,5,5.78,9.88
+369,mentha_spicata_8in,Mentha spicata 8in,5,3.27,5.85
+370,mentha_spicata_6in,Mentha spicata 6in,5,7.82,13.66
+371,coriandrum_sativum_tricolor_1gal,Coriandrum sativum 'Tricolor' 1gal,5,8.03,15.71
+372,coriandrum_sativum_2in,Coriandrum sativum 2in,5,4.42,8.98
+373,petroselinum_crispum_4in,Petroselinum crispum 4in,5,7.35,13.58
+374,petroselinum_crispum_2gal,Petroselinum crispum 2gal,5,12.8,25.69
+375,petroselinum_crispum_2in,Petroselinum crispum 2in,5,1.72,3.27
+376,salvia_officinalis_2in,Salvia officinalis 2in,5,2.97,5.91
+377,salvia_officinalis_4in,Salvia officinalis 4in,5,3.78,7.01
+378,salvia_officinalis_tricolor_10in,Salvia officinalis 'Tricolor' 10in,5,6.43,11.37
+379,anethum_graveolens_10in,Anethum graveolens 10in,5,4.02,8.28
+380,anethum_graveolens_2gal,Anethum graveolens 2gal,5,13.27,26.24
+381,thymus_vulgaris_4in,Thymus vulgaris 4in,5,7.72,13.09
+382,thymus_vulgaris_variegata_8in,Thymus vulgaris 'Variegata' 8in,5,2.98,5.84
+383,thymus_vulgaris_10in,Thymus vulgaris 10in,5,11.07,18.5
+384,rosmarinus_officinalis_ruby_1gal,Rosmarinus officinalis 'Ruby' 1gal,5,12.15,23.39
+385,cissus_rhombifolia_tricolor_2gal,Cissus rhombifolia 'Tricolor' 2gal,10,28.73,47.91
+386,cissus_rhombifolia_10in,Cissus rhombifolia 10in,10,13.26,24.24
+387,cissus_rhombifolia_6in,Cissus rhombifolia 6in,10,5.93,10.34
+388,cissus_rhombifolia_compacta_8in,Cissus rhombifolia 'Compacta' 8in,10,12.03,21.0
+389,jasminum_polyanthum_2in,Jasminum polyanthum 2in,10,8.8,16.22
+390,jasminum_polyanthum_nana_8in,Jasminum polyanthum 'Nana' 8in,10,11.0,20.17
+391,jasminum_polyanthum_10in,Jasminum polyanthum 10in,10,13.08,22.01
+392,jasminum_polyanthum_2gal,Jasminum polyanthum 2gal,10,27.9,50.71
+393,jasminum_polyanthum_6in,Jasminum polyanthum 6in,10,12.22,23.22
+394,hoya_carnosa_10in,Hoya carnosa 10in,10,20.67,32.39
+395,hoya_carnosa_ruby_8in,Hoya carnosa 'Ruby' 8in,10,16.15,27.19
+396,trachelospermum_jasminoides_variegata_1gal,Trachelospermum jasminoides 'Variegata' 1gal,10,18.78,30.93
+397,trachelospermum_jasminoides_variegata_2gal,Trachelospermum jasminoides 'Variegata' 2gal,10,24.85,39.33
+398,wisteria_sinensis_1gal,Wisteria sinensis 1gal,10,23.6,41.15
+399,wisteria_sinensis_aurea_10in,Wisteria sinensis 'Aurea' 10in,10,10.19,19.25
+400,wisteria_sinensis_6in,Wisteria sinensis 6in,10,14.27,24.77
+401,wisteria_sinensis_2in,Wisteria sinensis 2in,10,2.79,5.58
+402,philodendron_micans_ruby_10in,Philodendron micans 'Ruby' 10in,10,17.1,27.42
+403,philodendron_micans_6in,Philodendron micans 6in,10,11.55,18.02
+404,philodendron_micans_8in,Philodendron micans 8in,10,7.11,12.69
+405,philodendron_micans_2gal,Philodendron micans 2gal,10,18.48,28.12
+406,philodendron_micans_compacta_2in,Philodendron micans 'Compacta' 2in,10,3.7,6.4
+407,clematis_montana_1gal,Clematis montana 1gal,10,17.17,28.46
+408,clematis_montana_8in,Clematis montana 8in,10,11.69,21.16
+409,clematis_montana_ruby_2in,Clematis montana 'Ruby' 2in,10,8.51,13.92
+410,clematis_montana_6in,Clematis montana 6in,10,18.21,29.46
+411,passiflora_caerulea_2gal,Passiflora caerulea 2gal,10,31.4,57.41
+412,passiflora_caerulea_tricolor_6in,Passiflora caerulea 'Tricolor' 6in,10,5.88,11.37
+413,hedera_helix_8in,Hedera helix 8in,10,12.12,22.77
+414,hedera_helix_1gal,Hedera helix 1gal,10,14.01,23.77
+415,hedera_helix_4in,Hedera helix 4in,10,9.62,17.39
+416,hedera_helix_6in,Hedera helix 6in,10,5.59,9.5
+417,hedera_helix_ruby_2gal,Hedera helix 'Ruby' 2gal,10,17.29,32.46
+418,cissus_rhombifolia_aurea_2in,Cissus rhombifolia 'Aurea' 2in,10,8.48,14.96
+419,cissus_rhombifolia_2gal,Cissus rhombifolia 2gal,10,11.89,21.28
+420,cissus_rhombifolia_10in,Cissus rhombifolia 10in,10,20.05,32.84
+421,cissus_rhombifolia_8in,Cissus rhombifolia 8in,10,6.34,11.11
+422,jasminum_polyanthum_4in,Jasminum polyanthum 4in,10,16.62,25.63
+423,jasminum_polyanthum_variegata_2in,Jasminum polyanthum 'Variegata' 2in,10,9.5,15.55
+424,hoya_carnosa_2gal,Hoya carnosa 2gal,10,24.36,48.57
+425,hoya_carnosa_variegata_8in,Hoya carnosa 'Variegata' 8in,10,21.06,32.49
+426,hoya_carnosa_10in,Hoya carnosa 10in,10,20.74,35.25
+427,hoya_carnosa_nana_1gal,Hoya carnosa 'Nana' 1gal,10,10.23,18.3
+428,hoya_carnosa_4in,Hoya carnosa 4in,10,11.6,21.38
+429,trachelospermum_jasminoides_6in,Trachelospermum jasminoides 6in,10,11.48,18.42
+430,trachelospermum_jasminoides_aurea_10in,Trachelospermum jasminoides 'Aurea' 10in,10,21.84,34.86
+431,trachelospermum_jasminoides_2in,Trachelospermum jasminoides 2in,10,6.5,11.95
+432,wisteria_sinensis_aurea_1gal,Wisteria sinensis 'Aurea' 1gal,10,10.6,18.1
+433,wisteria_sinensis_4in,Wisteria sinensis 4in,10,5.0,8.26
+434,wisteria_sinensis_2gal,Wisteria sinensis 2gal,10,14.91,25.99
+435,wisteria_sinensis_nana_10in,Wisteria sinensis 'Nana' 10in,10,18.78,32.71
+436,philodendron_micans_8in,Philodendron micans 8in,10,13.94,23.47
+437,philodendron_micans_10in,Philodendron micans 10in,10,12.85,24.75
+438,clematis_montana_2in,Clematis montana 2in,10,8.54,15.61
+439,clematis_montana_6in,Clematis montana 6in,10,11.04,18.1
+440,clematis_montana_1gal,Clematis montana 1gal,10,11.56,21.99
+441,clematis_montana_10in,Clematis montana 10in,10,10.55,20.82
+442,passiflora_caerulea_aurea_2in,Passiflora caerulea 'Aurea' 2in,10,7.4,11.62
+443,passiflora_caerulea_variegata_6in,Passiflora caerulea 'Variegata' 6in,10,15.99,30.37
+444,passiflora_caerulea_nana_4in,Passiflora caerulea 'Nana' 4in,10,9.76,16.62
+445,passiflora_caerulea_aurea_2gal,Passiflora caerulea 'Aurea' 2gal,10,19.61,34.2
+446,hedera_helix_2gal,Hedera helix 2gal,10,14.26,26.54
+447,hedera_helix_8in,Hedera helix 8in,10,17.6,29.18
+448,hedera_helix_4in,Hedera helix 4in,10,4.77,7.79
+449,aster_novi_belgii_aurea_6in,Aster novi-belgii 'Aurea' 6in,7,7.83,12.67
+450,aster_novi_belgii_10in,Aster novi-belgii 10in,7,19.16,30.87
+451,aster_novi_belgii_1gal,Aster novi-belgii 1gal,7,22.25,41.65
+452,lupinus_polyphyllus_variegata_8in,Lupinus polyphyllus 'Variegata' 8in,7,10.74,17.93
+453,lupinus_polyphyllus_6in,Lupinus polyphyllus 6in,7,8.96,15.16
+454,lupinus_polyphyllus_nana_10in,Lupinus polyphyllus 'Nana' 10in,7,20.1,39.51
+455,helleborus_orientalis_1gal,Helleborus orientalis 1gal,7,22.16,37.98
+456,helleborus_orientalis_nana_8in,Helleborus orientalis 'Nana' 8in,7,11.84,22.23
+457,helleborus_orientalis_2in,Helleborus orientalis 2in,7,7.48,12.18
+458,echinacea_purpurea_2in,Echinacea purpurea 2in,7,9.53,15.57
+459,echinacea_purpurea_6in,Echinacea purpurea 6in,7,6.27,10.32
+460,echinacea_purpurea_4in,Echinacea purpurea 4in,7,15.04,23.59
+461,coreopsis_verticillata_compacta_10in,Coreopsis verticillata 'Compacta' 10in,7,10.75,18.48
+462,coreopsis_verticillata_6in,Coreopsis verticillata 6in,7,10.65,17.5
+463,coreopsis_verticillata_2gal,Coreopsis verticillata 2gal,7,18.15,34.06
+464,coreopsis_verticillata_nana_1gal,Coreopsis verticillata 'Nana' 1gal,7,29.45,46.07
+465,chrysanthemum_morifolium_tricolor_6in,Chrysanthemum morifolium 'Tricolor' 6in,7,12.01,23.81
+466,chrysanthemum_morifolium_4in,Chrysanthemum morifolium 4in,7,15.06,25.01
+467,chrysanthemum_morifolium_compacta_1gal,Chrysanthemum morifolium 'Compacta' 1gal,7,14.17,22.36
+468,chrysanthemum_morifolium_2in,Chrysanthemum morifolium 2in,7,5.16,9.0
+469,chrysanthemum_morifolium_tricolor_8in,Chrysanthemum morifolium 'Tricolor' 8in,7,12.1,23.98
+470,dianthus_barbatus_ruby_10in,Dianthus barbatus 'Ruby' 10in,7,13.45,20.78
+471,dianthus_barbatus_4in,Dianthus barbatus 4in,7,8.15,12.98
+472,salvia_nemorosa_8in,Salvia nemorosa 8in,7,9.84,15.56
+473,salvia_nemorosa_compacta_4in,Salvia nemorosa 'Compacta' 4in,7,4.42,7.84
+474,salvia_nemorosa_2gal,Salvia nemorosa 2gal,7,23.06,42.13
+475,rudbeckia_hirta_2in,Rudbeckia hirta 2in,7,4.95,8.33
+476,rudbeckia_hirta_compacta_10in,Rudbeckia hirta 'Compacta' 10in,7,8.7,14.79
+477,lavandula_stoechas_variegata_6in,Lavandula stoechas 'Variegata' 6in,7,18.04,31.94
+478,lavandula_stoechas_tricolor_2in,Lavandula stoechas 'Tricolor' 2in,7,8.05,12.8
+479,lavandula_stoechas_compacta_8in,Lavandula stoechas 'Compacta' 8in,7,16.6,28.94
+480,lavandula_stoechas_10in,Lavandula stoechas 10in,7,20.07,35.63
+481,gaillardia_aristata_4in,Gaillardia aristata 4in,7,15.37,24.46
+482,gaillardia_aristata_8in,Gaillardia aristata 8in,7,18.42,35.5
+483,gaillardia_aristata_nana_2in,Gaillardia aristata 'Nana' 2in,7,4.37,8.09
+484,gaillardia_aristata_2gal,Gaillardia aristata 2gal,7,17.49,31.13
+485,aster_novi_belgii_6in,Aster novi-belgii 6in,7,8.0,16.03
+486,aster_novi_belgii_ruby_8in,Aster novi-belgii 'Ruby' 8in,7,12.84,23.24
+487,lupinus_polyphyllus_compacta_2in,Lupinus polyphyllus 'Compacta' 2in,7,10.01,17.09
+488,lupinus_polyphyllus_compacta_10in,Lupinus polyphyllus 'Compacta' 10in,7,11.26,22.81
+489,lupinus_polyphyllus_4in,Lupinus polyphyllus 4in,7,13.92,22.53
+490,lupinus_polyphyllus_6in,Lupinus polyphyllus 6in,7,12.69,23.32
+491,helleborus_orientalis_nana_2in,Helleborus orientalis 'Nana' 2in,7,8.13,12.52
+492,helleborus_orientalis_2gal,Helleborus orientalis 2gal,7,23.68,45.27
+493,helleborus_orientalis_10in,Helleborus orientalis 10in,7,18.19,29.63
+494,echinacea_purpurea_1gal,Echinacea purpurea 1gal,7,11.65,21.33
+495,echinacea_purpurea_4in,Echinacea purpurea 4in,7,6.83,11.99
+496,coreopsis_verticillata_8in,Coreopsis verticillata 8in,7,19.66,31.66
+497,coreopsis_verticillata_tricolor_2gal,Coreopsis verticillata 'Tricolor' 2gal,7,23.84,38.93
+498,coreopsis_verticillata_compacta_2in,Coreopsis verticillata 'Compacta' 2in,7,6.95,10.77
+499,coreopsis_verticillata_4in,Coreopsis verticillata 4in,7,7.92,15.38
+500,coreopsis_verticillata_1gal,Coreopsis verticillata 1gal,7,27.33,47.75
+501,chrysanthemum_morifolium_6in,Chrysanthemum morifolium 6in,7,16.14,26.97
+502,chrysanthemum_morifolium_2gal,Chrysanthemum morifolium 2gal,7,16.69,31.29
+503,chrysanthemum_morifolium_aurea_10in,Chrysanthemum morifolium 'Aurea' 10in,7,9.93,16.88
+504,chrysanthemum_morifolium_aurea_1gal,Chrysanthemum morifolium 'Aurea' 1gal,7,10.94,19.01
+505,dianthus_barbatus_4in,Dianthus barbatus 4in,7,6.69,12.03
+506,dianthus_barbatus_1gal,Dianthus barbatus 1gal,7,19.88,32.76
+507,dianthus_barbatus_2in,Dianthus barbatus 2in,7,7.16,11.59
+508,salvia_nemorosa_ruby_2in,Salvia nemorosa 'Ruby' 2in,7,6.45,10.88
+509,salvia_nemorosa_compacta_2gal,Salvia nemorosa 'Compacta' 2gal,7,28.36,48.87
+510,salvia_nemorosa_4in,Salvia nemorosa 4in,7,13.94,23.05
+511,salvia_nemorosa_variegata_8in,Salvia nemorosa 'Variegata' 8in,7,12.61,22.07
+512,rudbeckia_hirta_1gal,Rudbeckia hirta 1gal,7,20.61,35.54
+513,fragaria_ananassa_4in,Fragaria × ananassa 4in,14,5.2,7.95
+514,fragaria_ananassa_2gal,Fragaria × ananassa 2gal,14,32.97,51.86
+515,fragaria_ananassa_variegata_8in,Fragaria × ananassa 'Variegata' 8in,14,16.73,28.44
+516,fragaria_ananassa_1gal,Fragaria × ananassa 1gal,14,22.39,38.19
+517,vaccinium_corymbosum_8in,Vaccinium corymbosum 8in,14,8.32,14.83
+518,vaccinium_corymbosum_2in,Vaccinium corymbosum 2in,14,8.83,13.85
+519,vaccinium_corymbosum_nana_10in,Vaccinium corymbosum 'Nana' 10in,14,6.51,10.31
+520,cucurbita_pepo_1gal,Cucurbita pepo 1gal,14,15.9,22.87
+521,cucurbita_pepo_2in,Cucurbita pepo 2in,14,3.66,6.01
+522,cucurbita_pepo_ruby_4in,Cucurbita pepo 'Ruby' 4in,14,9.87,15.07
+523,solanum_lycopersicum_4in,Solanum lycopersicum 4in,14,12.13,19.81
+524,solanum_lycopersicum_ruby_10in,Solanum lycopersicum 'Ruby' 10in,14,10.84,19.63
+525,solanum_lycopersicum_variegata_2gal,Solanum lycopersicum 'Variegata' 2gal,14,26.83,40.11
+526,solanum_lycopersicum_1gal,Solanum lycopersicum 1gal,14,20.21,33.64
+527,phaseolus_vulgaris_1gal,Phaseolus vulgaris 1gal,14,29.41,42.3
+528,phaseolus_vulgaris_6in,Phaseolus vulgaris 6in,14,13.3,24.39
+529,phaseolus_vulgaris_10in,Phaseolus vulgaris 10in,14,8.31,13.66
+530,phaseolus_vulgaris_ruby_4in,Phaseolus vulgaris 'Ruby' 4in,14,3.99,6.63
+531,phaseolus_vulgaris_8in,Phaseolus vulgaris 8in,14,12.63,17.92
+532,cucumis_sativus_2gal,Cucumis sativus 2gal,14,12.57,20.37
+533,cucumis_sativus_1gal,Cucumis sativus 1gal,14,12.55,18.47
+534,cucumis_sativus_6in,Cucumis sativus 6in,14,5.25,8.65
+535,cucumis_sativus_2in,Cucumis sativus 2in,14,4.91,7.23
+536,capsicum_annuum_2in,Capsicum annuum 2in,14,7.73,11.31
+537,capsicum_annuum_variegata_1gal,Capsicum annuum 'Variegata' 1gal,14,12.1,20.16
+538,brassica_oleracea_2in,Brassica oleracea 2in,14,4.71,8.28
+539,brassica_oleracea_nana_10in,Brassica oleracea 'Nana' 10in,14,12.58,20.45
+540,brassica_oleracea_2gal,Brassica oleracea 2gal,14,22.99,40.43
+541,brassica_oleracea_nana_8in,Brassica oleracea 'Nana' 8in,14,7.39,10.82
+542,brassica_oleracea_6in,Brassica oleracea 6in,14,8.58,15.32
+543,rubus_idaeus_6in,Rubus idaeus 6in,14,5.75,10.32
+544,rubus_idaeus_aurea_2gal,Rubus idaeus 'Aurea' 2gal,14,9.47,15.11
+545,rubus_idaeus_variegata_8in,Rubus idaeus 'Variegata' 8in,14,12.02,19.7
+546,rubus_idaeus_2in,Rubus idaeus 2in,14,4.29,7.67
+547,citrus_x_microcarpa_1gal,Citrus x microcarpa 1gal,14,18.56,34.35
+548,citrus_x_microcarpa_8in,Citrus x microcarpa 8in,14,6.05,8.67
+549,citrus_x_microcarpa_2gal,Citrus x microcarpa 2gal,14,13.53,21.93
+550,allium_cepa_ruby_2gal,Allium cepa 'Ruby' 2gal,14,17.56,30.2
+551,allium_cepa_10in,Allium cepa 10in,14,14.87,22.13
+552,allium_cepa_4in,Allium cepa 4in,14,12.21,20.05
+553,allium_cepa_ruby_6in,Allium cepa 'Ruby' 6in,14,9.34,14.42
+554,fragaria_ananassa_8in,Fragaria × ananassa 8in,14,14.67,24.78
+555,fragaria_ananassa_10in,Fragaria × ananassa 10in,14,14.07,24.0
+556,fragaria_ananassa_6in,Fragaria × ananassa 6in,14,8.74,13.59
+557,fragaria_ananassa_4in,Fragaria × ananassa 4in,14,10.4,16.59
+558,vaccinium_corymbosum_2gal,Vaccinium corymbosum 2gal,14,28.39,47.09
+559,vaccinium_corymbosum_8in,Vaccinium corymbosum 8in,14,15.95,23.84
+560,cucurbita_pepo_2in,Cucurbita pepo 2in,14,7.15,12.57
+561,cucurbita_pepo_tricolor_10in,Cucurbita pepo 'Tricolor' 10in,14,10.85,18.91
+562,cucurbita_pepo_2gal,Cucurbita pepo 2gal,14,20.07,36.07
+563,solanum_lycopersicum_nana_8in,Solanum lycopersicum 'Nana' 8in,14,16.47,27.35
+564,solanum_lycopersicum_10in,Solanum lycopersicum 10in,14,11.24,16.91
+565,phaseolus_vulgaris_variegata_4in,Phaseolus vulgaris 'Variegata' 4in,14,5.21,8.78
+566,phaseolus_vulgaris_10in,Phaseolus vulgaris 10in,14,11.67,20.89
+567,cucumis_sativus_2in,Cucumis sativus 2in,14,9.07,13.25
+568,cucumis_sativus_ruby_6in,Cucumis sativus 'Ruby' 6in,14,5.45,8.81
+569,capsicum_annuum_compacta_1gal,Capsicum annuum 'Compacta' 1gal,14,14.15,22.54
+570,capsicum_annuum_6in,Capsicum annuum 6in,14,11.72,18.24
+571,capsicum_annuum_8in,Capsicum annuum 8in,14,18.15,27.08
+572,brassica_oleracea_variegata_8in,Brassica oleracea 'Variegata' 8in,14,9.77,15.36
+573,brassica_oleracea_aurea_2in,Brassica oleracea 'Aurea' 2in,14,5.66,8.55
+574,brassica_oleracea_ruby_4in,Brassica oleracea 'Ruby' 4in,14,4.68,7.0
+575,brassica_oleracea_2gal,Brassica oleracea 2gal,14,12.72,18.48
+576,rubus_idaeus_2in,Rubus idaeus 2in,14,3.25,5.88
+577,ferocactus_latispinus_ruby_4in,Ferocactus latispinus 'Ruby' 4in,2,12.59,21.29
+578,ferocactus_latispinus_nana_2gal,Ferocactus latispinus 'Nana' 2gal,2,13.31,23.22
+579,ferocactus_latispinus_10in,Ferocactus latispinus 10in,2,11.04,19.51
+580,ferocactus_latispinus_ruby_1gal,Ferocactus latispinus 'Ruby' 1gal,2,21.26,40.36
+581,mammillaria_elongata_6in,Mammillaria elongata 6in,2,15.34,30.85
+582,mammillaria_elongata_ruby_4in,Mammillaria elongata 'Ruby' 4in,2,5.66,11.65
+583,mammillaria_elongata_variegata_1gal,Mammillaria elongata 'Variegata' 1gal,2,19.97,32.98
+584,mammillaria_elongata_8in,Mammillaria elongata 8in,2,10.98,21.63
+585,echinocactus_grusonii_4in,Echinocactus grusonii 4in,2,11.68,18.69
+586,echinocactus_grusonii_variegata_8in,Echinocactus grusonii 'Variegata' 8in,2,11.83,21.89
+587,echinocactus_grusonii_1gal,Echinocactus grusonii 1gal,2,9.86,16.2
+588,cereus_peruvianus_4in,Cereus peruvianus 4in,2,8.0,16.2
+589,cereus_peruvianus_variegata_8in,Cereus peruvianus 'Variegata' 8in,2,12.91,25.15
+590,cereus_peruvianus_2gal,Cereus peruvianus 2gal,2,23.44,40.3
+591,cereus_peruvianus_1gal,Cereus peruvianus 1gal,2,24.08,39.53
+592,notocactus_scopa_variegata_2in,Notocactus scopa 'Variegata' 2in,2,4.75,8.32
+593,notocactus_scopa_4in,Notocactus scopa 4in,2,11.33,23.38
+594,schlumbergera_truncata_aurea_2gal,Schlumbergera truncata 'Aurea' 2gal,2,14.0,26.38
+595,schlumbergera_truncata_10in,Schlumbergera truncata 10in,2,7.12,14.28
+596,parodia_magnifica_variegata_2in,Parodia magnifica 'Variegata' 2in,2,6.44,12.44
+597,parodia_magnifica_10in,Parodia magnifica 10in,2,11.81,22.65
+598,parodia_magnifica_8in,Parodia magnifica 8in,2,9.87,18.31
+599,echinopsis_pachanoi_2in,Echinopsis pachanoi 2in,2,5.54,10.25
+600,echinopsis_pachanoi_tricolor_2gal,Echinopsis pachanoi 'Tricolor' 2gal,2,26.38,50.83
+601,begonia_semperflorens_8in,Begonia semperflorens 8in,6,13.94,22.2
+602,begonia_semperflorens_1gal,Begonia semperflorens 1gal,6,7.82,14.89
+603,begonia_semperflorens_4in,Begonia semperflorens 4in,6,4.71,9.03
+604,begonia_semperflorens_ruby_2in,Begonia semperflorens 'Ruby' 2in,6,3.19,5.91
+605,cosmos_bipinnatus_2in,Cosmos bipinnatus 2in,6,2.59,4.45
+606,cosmos_bipinnatus_8in,Cosmos bipinnatus 8in,6,6.47,11.03
+607,viola_wittrockiana_1gal,Viola × wittrockiana 1gal,6,7.52,13.93
+608,viola_wittrockiana_2in,Viola × wittrockiana 2in,6,5.95,10.15
+609,viola_wittrockiana_2gal,Viola × wittrockiana 2gal,6,17.2,26.44
+610,tagetes_patula_6in,Tagetes patula 6in,6,5.45,8.74
+611,tagetes_patula_2in,Tagetes patula 2in,6,2.62,4.85
+612,petunia_atkinsiana_10in,Petunia × atkinsiana 10in,6,8.04,14.88
+613,petunia_atkinsiana_1gal,Petunia × atkinsiana 1gal,6,12.94,20.87
+614,petunia_atkinsiana_variegata_6in,Petunia × atkinsiana 'Variegata' 6in,6,8.48,15.08
+615,lobelia_erinus_compacta_2in,Lobelia erinus 'Compacta' 2in,6,4.96,9.11
+616,lobelia_erinus_1gal,Lobelia erinus 1gal,6,8.25,15.76
+617,calendula_officinalis_4in,Calendula officinalis 4in,6,4.62,8.15
+618,calendula_officinalis_6in,Calendula officinalis 6in,6,9.75,18.79
+619,zinnia_elegans_compacta_8in,Zinnia elegans 'Compacta' 8in,6,7.35,11.64
+620,zinnia_elegans_2gal,Zinnia elegans 2gal,6,19.14,32.25
+621,zinnia_elegans_ruby_1gal,Zinnia elegans 'Ruby' 1gal,6,13.99,23.27
+622,pelargonium_peltatum_variegata_10in,Pelargonium peltatum 'Variegata' 10in,6,8.0,12.83
+623,pelargonium_peltatum_2gal,Pelargonium peltatum 2gal,6,20.92,33.08
+624,pelargonium_peltatum_variegata_8in,Pelargonium peltatum 'Variegata' 8in,6,7.33,12.69
+625,pieris_japonica_tricolor_2in,Pieris japonica 'Tricolor' 2in,8,7.33,11.04
+626,pieris_japonica_nana_1gal,Pieris japonica 'Nana' 1gal,8,37.73,56.55
+627,berberis_thunbergii_8in,Berberis thunbergii 8in,8,19.01,27.24
+628,berberis_thunbergii_10in,Berberis thunbergii 10in,8,46.65,62.2
+629,berberis_thunbergii_2in,Berberis thunbergii 2in,8,7.45,11.35
+630,berberis_thunbergii_variegata_1gal,Berberis thunbergii 'Variegata' 1gal,8,30.83,45.39
+631,berberis_thunbergii_tricolor_2gal,Berberis thunbergii 'Tricolor' 2gal,8,33.93,44.91
+632,camellia_japonica_10in,Camellia japonica 10in,8,46.65,70.13
+633,camellia_japonica_1gal,Camellia japonica 1gal,8,66.54,93.44
+634,camellia_japonica_2gal,Camellia japonica 2gal,8,30.31,43.07
+635,camellia_japonica_nana_4in,Camellia japonica 'Nana' 4in,8,10.58,14.39
+636,azalea_indica_compacta_4in,Azalea indica 'Compacta' 4in,8,15.36,23.54
+637,azalea_indica_10in,Azalea indica 10in,8,32.24,53.03
+638,azalea_indica_1gal,Azalea indica 1gal,8,35.55,48.3
+639,azalea_indica_compacta_2gal,Azalea indica 'Compacta' 2gal,8,48.93,71.46
+640,azalea_indica_variegata_6in,Azalea indica 'Variegata' 6in,8,28.9,39.14
+641,ilex_crenata_6in,Ilex crenata 6in,8,30.67,43.05
+642,ilex_crenata_variegata_1gal,Ilex crenata 'Variegata' 1gal,8,45.22,66.24
+643,ilex_crenata_2in,Ilex crenata 2in,8,15.84,23.95
+644,ilex_crenata_compacta_8in,Ilex crenata 'Compacta' 8in,8,42.89,61.47
+645,hydrangea_paniculata_compacta_1gal,Hydrangea paniculata 'Compacta' 1gal,8,27.36,39.93
+646,hydrangea_paniculata_variegata_10in,Hydrangea paniculata 'Variegata' 10in,8,15.5,24.49
+647,hydrangea_paniculata_tricolor_4in,Hydrangea paniculata 'Tricolor' 4in,8,12.17,18.35
+648,viburnum_tinus_2gal,Viburnum tinus 2gal,8,28.42,38.59
+649,citrus_sinensis_2in,Citrus sinensis 2in,9,15.84,22.37
+650,citrus_sinensis_compacta_2gal,Citrus sinensis 'Compacta' 2gal,9,45.46,62.59
+651,citrus_sinensis_tricolor_4in,Citrus sinensis 'Tricolor' 4in,9,31.25,50.24
+652,acer_palmatum_compacta_10in,Acer palmatum 'Compacta' 10in,9,50.74,64.4
+653,acer_palmatum_1gal,Acer palmatum 1gal,9,155.46,200.69
+654,acer_palmatum_2gal,Acer palmatum 2gal,9,131.15,205.69
+655,magnolia_grandiflora_ruby_2gal,Magnolia grandiflora 'Ruby' 2gal,9,125.69,188.2
+656,magnolia_grandiflora_10in,Magnolia grandiflora 10in,9,83.86,113.38
+657,magnolia_grandiflora_6in,Magnolia grandiflora 6in,9,38.49,50.42
+658,magnolia_grandiflora_variegata_8in,Magnolia grandiflora 'Variegata' 8in,9,35.0,44.8
+659,laurus_nobilis_4in,Laurus nobilis 4in,9,61.43,79.02
+660,laurus_nobilis_nana_2gal,Laurus nobilis 'Nana' 2gal,9,126.66,194.38
+661,laurus_nobilis_10in,Laurus nobilis 10in,9,137.85,183.22
+662,pyrus_communis_ruby_10in,Pyrus communis 'Ruby' 10in,9,98.24,138.38
+663,pyrus_communis_ruby_6in,Pyrus communis 'Ruby' 6in,9,89.7,134.42
+664,ficus_benjamina_6in,Ficus benjamina 6in,9,107.4,142.86
+665,ficus_benjamina_4in,Ficus benjamina 4in,9,87.82,116.27
+666,ficus_benjamina_8in,Ficus benjamina 8in,9,93.7,139.65
+667,ficus_benjamina_compacta_2in,Ficus benjamina 'Compacta' 2in,9,34.2,54.04
+668,ficus_benjamina_1gal,Ficus benjamina 1gal,9,91.53,129.18
+669,malus_domestica_8in,Malus domestica 8in,9,42.43,65.17
+670,malus_domestica_2gal,Malus domestica 2gal,9,165.89,271.51
+671,malus_domestica_nana_10in,Malus domestica 'Nana' 10in,9,22.97,30.95
+672,malus_domestica_2in,Malus domestica 2in,9,37.53,61.5
+673,acorus_calamus_4in,Acorus calamus 4in,13,4.02,6.73
+674,acorus_calamus_1gal,Acorus calamus 1gal,13,13.22,25.57
+675,acorus_calamus_8in,Acorus calamus 8in,13,16.43,26.85
+676,acorus_calamus_6in,Acorus calamus 6in,13,7.45,11.96
+677,acorus_calamus_2in,Acorus calamus 2in,13,6.28,11.95
+678,nelumbo_nucifera_variegata_10in,Nelumbo nucifera 'Variegata' 10in,13,17.36,31.27
+679,nelumbo_nucifera_1gal,Nelumbo nucifera 1gal,13,20.19,30.49
+680,nelumbo_nucifera_compacta_4in,Nelumbo nucifera 'Compacta' 4in,13,5.4,8.7
+681,nelumbo_nucifera_aurea_6in,Nelumbo nucifera 'Aurea' 6in,13,12.92,22.54
+682,nelumbo_nucifera_8in,Nelumbo nucifera 8in,13,5.64,10.63
+683,anubias_barteri_tricolor_8in,Anubias barteri 'Tricolor' 8in,13,4.7,8.51
+684,anubias_barteri_compacta_2gal,Anubias barteri 'Compacta' 2gal,13,14.03,22.92
+685,anubias_barteri_aurea_10in,Anubias barteri 'Aurea' 10in,13,18.98,29.95
+686,anubias_barteri_1gal,Anubias barteri 1gal,13,11.42,21.69
+687,anubias_barteri_compacta_2in,Anubias barteri 'Compacta' 2in,13,8.36,13.31
+688,echinodorus_bleheri_8in,Echinodorus bleheri 8in,13,13.24,22.87
+689,echinodorus_bleheri_tricolor_1gal,Echinodorus bleheri 'Tricolor' 1gal,13,15.28,25.02
+690,echinodorus_bleheri_tricolor_6in,Echinodorus bleheri 'Tricolor' 6in,13,7.73,13.29
+691,echinodorus_bleheri_10in,Echinodorus bleheri 10in,13,17.45,30.75
+692,echinodorus_bleheri_variegata_4in,Echinodorus bleheri 'Variegata' 4in,13,9.99,17.86
+693,nymphaea_odorata_4in,Nymphaea odorata 4in,13,7.66,13.96
+694,nymphaea_odorata_variegata_2in,Nymphaea odorata 'Variegata' 2in,13,4.86,7.68
+695,nymphaea_odorata_8in,Nymphaea odorata 8in,13,4.93,8.32
+696,nymphaea_odorata_10in,Nymphaea odorata 10in,13,16.05,30.47
+697,muhlenbergia_capillaris_ruby_10in,Muhlenbergia capillaris 'Ruby' 10in,15,27.86,42.41
+698,muhlenbergia_capillaris_2gal,Muhlenbergia capillaris 2gal,15,32.12,51.8
+699,carex_oshimensis_tricolor_2in,Carex oshimensis 'Tricolor' 2in,15,9.39,13.45
+700,carex_oshimensis_4in,Carex oshimensis 4in,15,8.08,14.08
+701,carex_oshimensis_6in,Carex oshimensis 6in,15,10.57,16.74
+702,carex_oshimensis_1gal,Carex oshimensis 1gal,15,8.63,13.76
+703,carex_oshimensis_8in,Carex oshimensis 8in,15,9.5,13.19
+704,miscanthus_sinensis_variegata_2in,Miscanthus sinensis 'Variegata' 2in,15,8.38,14.33
+705,miscanthus_sinensis_compacta_1gal,Miscanthus sinensis 'Compacta' 1gal,15,16.93,27.3
+706,miscanthus_sinensis_8in,Miscanthus sinensis 8in,15,20.09,32.73
+707,miscanthus_sinensis_4in,Miscanthus sinensis 4in,15,12.46,20.31
+708,stipa_tenuissima_1gal,Stipa tenuissima 1gal,15,24.05,40.07
+709,stipa_tenuissima_2in,Stipa tenuissima 2in,15,7.79,12.65
+710,stipa_tenuissima_6in,Stipa tenuissima 6in,15,5.73,9.51
+711,stipa_tenuissima_4in,Stipa tenuissima 4in,15,13.07,22.94
+712,calamagrostis_acutiflora_1gal,Calamagrostis × acutiflora 1gal,15,13.02,23.11
+713,calamagrostis_acutiflora_nana_8in,Calamagrostis × acutiflora 'Nana' 8in,15,8.25,12.56
+714,calamagrostis_acutiflora_nana_10in,Calamagrostis × acutiflora 'Nana' 10in,15,29.41,41.26
+715,calamagrostis_acutiflora_4in,Calamagrostis × acutiflora 4in,15,18.08,27.36
+716,calamagrostis_acutiflora_aurea_6in,Calamagrostis × acutiflora 'Aurea' 6in,15,6.9,10.38
+717,pennisetum_alopecuroides_6in,Pennisetum alopecuroides 6in,15,12.57,20.19
+718,pennisetum_alopecuroides_10in,Pennisetum alopecuroides 10in,15,14.82,23.65
+719,pennisetum_alopecuroides_tricolor_1gal,Pennisetum alopecuroides 'Tricolor' 1gal,15,21.56,35.58
+720,festuca_glauca_variegata_10in,Festuca glauca 'Variegata' 10in,15,9.07,14.21

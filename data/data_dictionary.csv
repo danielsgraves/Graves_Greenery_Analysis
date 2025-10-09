@@ -1,0 +1,84 @@
+table,column,type,description
+dim_plant_category,category_id,INTEGER,PK
+dim_plant_category,category_name,VARCHAR,Category
+dim_plant_category,category_description,VARCHAR,Description
+dim_plants,plant_id,INTEGER,PK
+dim_plants,sku,VARCHAR,SKU
+dim_plants,plant_name,VARCHAR,Display name
+dim_plants,category_id,INTEGER,FK category
+dim_plants,unit_cost,"DECIMAL(10,2)",Supplier cost
+dim_plants,list_price,"DECIMAL(10,2)",Retail price
+dim_locations,location_id,INTEGER,PK
+dim_locations,location_name,VARCHAR,Name
+dim_locations,city,VARCHAR,City
+dim_locations,state_province,VARCHAR,State/Province
+dim_locations,country,VARCHAR,Country
+dim_locations,channel,VARCHAR,Channel
+dim_customers,customer_id,INTEGER,PK
+dim_customers,first_name,VARCHAR,First
+dim_customers,last_name,VARCHAR,Last
+dim_customers,email,VARCHAR,Unique email
+dim_customers,phone,VARCHAR,Phone
+dim_customers,address1,VARCHAR,Address1
+dim_customers,address2,VARCHAR,Address2
+dim_customers,city,VARCHAR,City
+dim_customers,state_province,VARCHAR,State/Prov
+dim_customers,postal_code,VARCHAR,ZIP/Postal
+dim_customers,country,VARCHAR,Country
+dim_customers,signup_ts,TIMESTAMP,Signup
+dim_customers,marketing_opt_in,VARCHAR,TRUE/FALSE
+dim_customers,loyalty_tier,VARCHAR,Tier
+dim_customers,source_channel,VARCHAR,Source
+dim_dates,date_id,BIGINT,Unix seconds
+dim_dates,date,DATE,Date
+dim_dates,year,INTEGER,Year
+dim_dates,quarter,INTEGER,Quarter
+dim_dates,month,INTEGER,Month
+dim_dates,day,INTEGER,Day
+dim_dates,day_name,VARCHAR,Day name
+dim_dates,is_weekend,BOOLEAN,Weekend
+dim_inventory,location_id,INTEGER,FK
+dim_inventory,plant_id,INTEGER,FK
+dim_inventory,on_hand_qty,INTEGER,Qty
+dim_promotions,promotion_id,INTEGER,PK
+dim_promotions,promo_code,VARCHAR,Code
+dim_promotions,description,VARCHAR,Desc
+dim_promotions,discount_type,VARCHAR,Type
+dim_promotions,discount_value,"DECIMAL(10,2)",% or $
+dim_promotions,start_date,DATE,Start
+dim_promotions,end_date,DATE,End
+dim_promotions,channel_scope,VARCHAR,Scope
+dim_promotions,is_stackable,BOOLEAN,Stackable
+dim_return_reason,return_reason_id,INTEGER,PK
+dim_return_reason,reason,VARCHAR,Reason
+fact_orders,order_id,BIGINT,PK
+fact_orders,customer_id,INTEGER,FK
+fact_orders,location_id,INTEGER,FK
+fact_orders,order_ts,TIMESTAMP,Placed
+fact_orders,sales_channel,VARCHAR,Channel
+fact_orders,coupon_code,VARCHAR,Code
+fact_orders,promotion_id,INTEGER,FK
+fact_orders,fulfillment_method,VARCHAR,Method
+fact_order_items,order_item_id,BIGINT,PK
+fact_order_items,order_id,BIGINT,FK
+fact_order_items,plant_id,INTEGER,FK
+fact_order_items,quantity,INTEGER,Qty
+fact_order_items,unit_price,"DECIMAL(10,2)",Unit price
+fact_order_items,line_subtotal,"DECIMAL(10,2)",Subtotal
+fact_order_items,discount_amount,"DECIMAL(10,2)",Discount
+fact_order_items,tax_amount,"DECIMAL(10,2)",Tax
+fact_order_items,shipping_amount,"DECIMAL(10,2)",Shipping
+fact_order_items,estimated_margin,"DECIMAL(12,2)",(net - cost)
+fact_order_promotions,order_id,BIGINT,FK/PK
+fact_order_promotions,promotion_id,INTEGER,FK/PK
+fact_returns,return_id,BIGINT,PK
+fact_returns,order_item_id,BIGINT,FK
+fact_returns,order_id,BIGINT,FK
+fact_returns,customer_id,INTEGER,FK
+fact_returns,plant_id,INTEGER,FK
+fact_returns,return_reason_id,INTEGER,FK
+fact_returns,return_ts,TIMESTAMP,Time
+fact_returns,quantity_returned,INTEGER,Qty
+fact_returns,refund_amount,"DECIMAL(10,2)",Refund
+fact_returns,restocking_fee,"DECIMAL(10,2)",Fee
+fact_returns,promotion_id,INTEGER,FK
