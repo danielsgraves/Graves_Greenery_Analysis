@@ -1,9 +1,0 @@
-promotion_id,promo_code,description,discount_type,discount_value,start_date,end_date,channel_scope,is_stackable
-1,SPRING10,Spring Sale 10% off,PCT,10.0,2024-03-01,2024-05-15,All,False
-2,VIP20,VIP 20% off,PCT,20.0,2024-01-01,2025-12-31,All,False
-3,WELCOME5,New customer $5 off,FIXED,5.0,2023-01-01,2025-12-31,Online,False
-4,FALL15,Fall Event 15% off,PCT,15.0,2024-09-01,2024-11-30,All,False
-5,PLANTLOVE,Plant Love Mystery Deal,PCT,12.0,2025-02-01,2025-02-28,All,False
-6,BOGOHERB,Herbs BOGO 50%,BOGO50,0.0,2024-04-01,2024-06-30,In-Store,False
-7,ORCHIDDAY,Orchid Day $10 off,FIXED,10.0,2025-03-10,2025-03-12,All,False
-8,WEEKEND5,Weekend $5 off $30+,FIXED,5.0,2023-01-01,2025-12-31,All,True
