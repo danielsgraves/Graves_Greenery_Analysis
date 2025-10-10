@@ -1,0 +1,14 @@
+{
+  "dataset_name": "graves_greenery_full",
+  "version": "v2.4",
+  "seed": 4272025,
+  "plant_skus": 720,
+  "order_count": 25000,
+  "order_item_count": 44766,
+  "return_rate_pct": 5.92,
+  "indoor_ratio": 0.8,
+  "negative_margin_ratio": 0.003,
+  "customers_dirty_pct": 0.4,
+  "messiness_profile": "moderate (names/email/phone/address/optin/loyalty formatting + ~5% near-duplicates)",
+  "created_at": "2025-10-10T18:33:25.629624Z"
+}
